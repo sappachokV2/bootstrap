@@ -1,0 +1,10 @@
+.form-control {
+    border-color: #181818;
+}
+.form-control-salmon:focus {
+    color: #fff;
+    background-color: #fff;
+    border-color: #cb5c3f;
+    outline: 0;
+    box-shadow: 0 0 0 0.15rem rgba(243, 91, 63, 0.25);
+}
